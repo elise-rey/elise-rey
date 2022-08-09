@@ -1,4 +1,4 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=elise-rey&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/elise-rey/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=elise-rey&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/elise-rey/github-readme-stats)
 
 
 <!--
