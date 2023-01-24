@@ -1,5 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=elise-rey&theme=gotham&border_radius=10)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=elise-rey&theme=nord&border_radius=10)](https://git.io/streak-stats)
 
 <!--
 Here are some ideas to get you started:
