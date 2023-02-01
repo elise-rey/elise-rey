@@ -1,4 +1,10 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=elise-rey&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,issues)
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elise-rey&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,issues)
+
+## Last repos
+![GitHub repos](https://github-readme-stats.vercel.app/api/pin/?username=elise-rey&repo=Osiris-NFT/Frontend-Mobile-App&theme=tokyonight)
+
+
 <!--
 Here are some ideas to get you started:
 
