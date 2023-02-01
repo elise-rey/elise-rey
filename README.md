@@ -2,7 +2,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elise-rey&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,issues)
 
 ## Last repos
-![GitHub repos](https://github-readme-stats.vercel.app/api/pin/?username=elise-rey&repo=Frontend-Mobile-App&show_owner=true&theme=tokyonight)(https://github.com/Osiris-NFT/Frontend-Mobile-App)
+[![GitHub repos](https://github-readme-stats.vercel.app/api/pin/?username=elise-rey&repo=Frontend-Mobile-App&show_owner=true&theme=tokyonight)](https://github.com/Osiris-NFT/Frontend-Mobile-App)
 
 
 <!--
