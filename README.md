@@ -3,8 +3,7 @@
 
 ## Last repos
 [![GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=elise-rey&repo=Frontend-Mobile-App&show_owner=true&theme=tokyonight)](https://github.com/Osiris-NFT/Frontend-Mobile-App)
-[![GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=elise-rey&repo=App-Frontend&show_owner=true&theme=tokyonight)](https://github.com/BE-Raquette/App-Frontend)
-
+[![GitHub repo](https://github-readme-stats.vercel.app/api/pin/?username=elise-rey&repo=Racket-App-Frontend&show_owner=true&theme=tokyonight)](https://github.com/BE-Raquette/App-Frontend)
 
 <!--
 Here are some ideas to get you started:
