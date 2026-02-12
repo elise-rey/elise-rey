@@ -1,5 +1,3 @@
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elise-rey&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,issues)
 <!--
 Here are some ideas to get you started:
 
